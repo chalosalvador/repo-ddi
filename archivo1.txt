@@ -1,3 +1,7 @@
 HolaMundo!
 Esta es la linea de Chalo
+<<<<<<< HEAD
 Esta es la linea de diego
+=======
+Esta es la linea de Ronny
+>>>>>>> ddd0c806432d10387bc6d58aa062c1a43cbbf512
